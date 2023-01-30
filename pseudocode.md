@@ -1,8 +1,8 @@
 ##Pseudocode for Work day Scheduler
 
 1. Add time to header of webpage
-    -Use moment.js
-    -Add second count using setinterval
+    -Use moment.js - done
+    -Add second count using setinterval - not needed
 
 2. Create columns using bootstaps grids 
     -3 colums required: 1 for time, 1 for description, 1 for save 
