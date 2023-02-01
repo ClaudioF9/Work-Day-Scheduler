@@ -14,8 +14,6 @@
     Use this to adjust css
 
 4. Identify the inputs required in html and link them using jquery in js
-    -us a function to "print" information on the grid - use trim to remove any space
-    -if left blank return " "
 
 5. As part of the above function you will need to send the information to local storage
     information will need to be kept even when refreshed.
