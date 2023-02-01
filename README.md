@@ -27,7 +27,7 @@ N/A
 https://claudiof9.github.io/Work-Day-Scheduler/
 
 ## Screenshot
-Incoming
+![Work-Day-Scheduler-Screenshot](https://user-images.githubusercontent.com/119876939/215913787-94a2d7f4-7134-4b60-b3ec-3c2d5b8daf5b.png)
 
 ## Credits
 
